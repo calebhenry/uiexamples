@@ -1,0 +1,40 @@
+*********** View Counselor by name ***********
+Result #1:
+	Camper Name: name
+	Allegies: alergy
+	Birthday: birthday
+	Emergency Contact 1
+		Name: name
+		Email: email
+		Phone Number: number
+		Relationship: number
+		Address: address
+	Emergency Contact 2
+		Name: name
+		Email: email
+		Phone Number: number
+		Relationship: number
+		Address: address
+	Primary Care Physician: name
+	Has Passed Swim Test: no
+
+Result #2:
+	Camper Name: name
+	Allegies: alergy
+	Birthday: birthday
+	Emergency Contact 1
+		Name: name
+		Email: email
+		Phone Number: number
+		Relationship: number
+		Address: address
+	Emergency Contact 2
+		Name: name
+		Email: email
+		Phone Number: number
+		Relationship: number
+		Address: address
+	Primary Care Physician: name
+	Has Passed Swim Test: no
+
+(Press 0 to exit)
