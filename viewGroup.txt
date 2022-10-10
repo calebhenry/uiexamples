@@ -1,5 +1,5 @@
-*********** View Counselor by name ***********
-Result #1:
+*********** View Campers in Your Group ***********
+Camper #1:
 	Camper Name: name
 	Allegies: alergy
 	Birthday: birthday
@@ -18,7 +18,7 @@ Result #1:
 	Primary Care Physician: name
 	Has Passed Swim Test: no
 
-Result #2:
+Camper #2:
 	Camper Name: name
 	Allegies: alergy
 	Birthday: birthday
