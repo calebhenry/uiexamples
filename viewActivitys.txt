@@ -1,0 +1,12 @@
+*********** View Activities ***********
+Activity 1:
+	Activity Name: name
+	Activity Location: location
+
+Activity 2:
+	Activity Name: name
+	Activity Location: location
+
+Activity 3:
+	Activity Name: name
+	Activity Location: location

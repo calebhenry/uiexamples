@@ -1,0 +1,5 @@
+*********** Counselor Access ***********
+1. View Schedule
+2. View Group
+
+Please enter your selection:
