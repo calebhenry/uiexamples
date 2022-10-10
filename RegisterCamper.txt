@@ -2,5 +2,5 @@
 Week 1: (date-date)
 Week 2: (date-date)
 Week 3: (date-date)
-Camper Name: 
-Week Selection:
+Your Camper's Name: 
+Number of the week to register for:

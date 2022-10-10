@@ -1,3 +1,0 @@
-*********** Login ***********
-Email: example@gmail.com
-Password: myPassWord123
