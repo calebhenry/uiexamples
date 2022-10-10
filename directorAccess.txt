@@ -1,0 +1,10 @@
+*********** Director Access ***********
+1. View Campers
+2. View Individual Camper
+3. View Counselors
+4. View Individual Counselors
+5. Create Activity
+6. Create Schedule
+7. View Schedule
+
+Please enter your selection: 

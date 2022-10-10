@@ -1,0 +1,7 @@
+*********** Customer Access ***********
+1. View Campers
+2. View Individual Camper
+3. Add Camper
+4. Register Camper
+
+Please enter your selection: 

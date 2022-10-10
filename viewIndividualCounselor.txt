@@ -1,0 +1,17 @@
+*********** View Individual Counselor ***********
+Counselor Name: name
+Allegies: allergy
+Birthday: birthday
+Emergency Contact 1
+	Name: name
+	Email: email
+	Phone Number: number
+	Relationship: relationship
+	Address: address
+Emergency Contact 2
+	Name: name
+	Email: email
+	Phone Number: number
+	Relationship: relationship
+	Address: address
+Primary Care Physician: name

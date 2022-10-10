@@ -1,0 +1,4 @@
+*********** Viewing Counselors ***********
+Counselor: Name1 Id: id1
+Counselor2: Name2 Id: id2
+(press 0 to exit)

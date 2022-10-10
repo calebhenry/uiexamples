@@ -1,0 +1,7 @@
+Welcome to the Camp Manager
+
+*********** Main Menu ***********
+1. Login
+2. View Activities
+
+Please enter your selection: 

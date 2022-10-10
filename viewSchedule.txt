@@ -1,0 +1,10 @@
+*********** View Schedule ***********
+Breakfast
+Block One Activity: Activity1
+Block Two Activity: Activity2
+Block Three Activity: Activity3
+Lunch
+Block Four Activity: Activity4
+Block Five Activity: Activity5
+Block Six Activity: Activity6
+Dinner

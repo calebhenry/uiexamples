@@ -1,0 +1,18 @@
+*********** Add Camper ***********
+Camper Name: 
+Allegies:
+Birthday:
+Emergency Contact 1
+	Name:
+	Email:
+	Phone Number:
+	Relationship:
+	Address:
+Emergency Contact 2
+	Name:
+	Email:
+	Phone Number:
+	Relationship:
+	Address:
+Primary Care Physician:
+Relationship:

@@ -1,0 +1,4 @@
+*********** Viewing Campers ***********
+Camper: Name1 Id: id1
+Camper2: Name2 Id: id2
+(press 0 to exit)
