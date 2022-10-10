@@ -1,2 +1,2 @@
 *********** View Individual Counselor ***********
-Enter Counselor ID:
+Enter Counselor Name:
